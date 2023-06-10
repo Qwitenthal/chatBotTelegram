@@ -1,2 +1,1 @@
-# chatBotTelegram
-Telegram Chat Bot
+pip install aiogram
